@@ -7,4 +7,6 @@
 
 int main(int argc, char** argv) {
 	printf("Safe program\n");
+
+	return 0;
 }
